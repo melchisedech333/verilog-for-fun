@@ -2,10 +2,10 @@
 
 <table style='border:0px solid white; width:100%;'>
 <tr style='border: 0px;'>
-<td valign='top'>
+<td valign='top' style='border:0px;'>
     <img src='./images/nmos-pmos.png' width='100%'>
 </td>
-<td valign='top' width='40%'>
+<td valign='top' width='40%' style='border:0px;'>
     <b>Open</b>: off, disconnected, no electrical contact.<br>
     <b>Closed</b>: on, connected, has electrical contact.<br><br>
     <table>
@@ -39,10 +39,10 @@
 </td>
 </tr>
 <tr style='border: 0px;'>
-    <td valign='top'>
+    <td valign='top' style='border:0px;'>
         <img src='images/Figure_11-Semiconductor_Handbook_800w.jpg' >
     </td>
-    <td valign='top'>
+    <td valign='top' style='border:0px;'>
         Symbols:<br><br>
         <img src='images/symbols-nmos-pmos-transistor.png' >
     </td>
