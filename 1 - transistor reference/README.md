@@ -3,10 +3,10 @@
 <table>
 <tr>
     <td valign='top'>
-        <img src='./images/symbols-nmos-pmos-transistor.png' width='400px'>
+        <img src='./images/symbols-nmos-pmos-transistor.png' width='600px'>
     </td>
     <td valign='top'>
-        <img src='./images/nmos-pmos.png' width='400px'>
+        <img src='./images/nmos-pmos.png' width='600px'>
         <b>Open</b>: off, disconnected, no electrical contact.<br>
         <b>Closed</b>: on, connected, has electrical contact.<br><br>
         <table>
