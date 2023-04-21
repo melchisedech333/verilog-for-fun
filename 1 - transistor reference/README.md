@@ -138,3 +138,17 @@ endmodule
 <br>
 
 <img src='images/2023-04-21 18-06-21.png' >
+
+<br>
+
+## Links
+
+[http://www.asic-world.com/verilog/](http://www.asic-world.com/verilog/)
+
+[https://www.chipverify.com/verilog/](https://www.chipverify.com/verilog/)
+
+[http://www.cs.nthu.edu.tw/~tcwang/4120-spring04/lec5.pdf](http://www.cs.nthu.edu.tw/~tcwang/4120-spring04/lec5.pdf)
+
+[Switch Level Modeling in Verilog. Sayed Amirhossein Mirhosseini site:researchgate.net](https://www.google.com/search?gs_ssp=eJzj4tLP1TcoqsozNStWYDRgdGDw4ilKLU5NLErOSE8sSQUAgjsJHg&q=Switch%20Level%20Modeling%20in%20Verilog.%20Sayed%20Amirhossein%20Mirhosseini%20site%3Aresearchgate.net&oq=rsearch&aqs=chrome.1.69i57j46i10i131i199i433i465i512j0i10i433i512j0i10i512j0i10i131i433i512j0i10i512j0i10i131i433i512j5.3508j0j9&sourceid=chrome&ie=UTF-8&ved=2ahUKEwifwL6_9Lv-AhU2LrkGHWv_C3cQ2wF6BAgYEAE&ei=B_9CZN-gHLbc5OUP6_6vuAc)
+
+
