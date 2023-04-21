@@ -1,7 +1,7 @@
 # Transistor Reference
 
 <table style='border:0px solid white; width:100%;'>
-<tr>
+<tr style='border: 0px;'>
 <td valign='top'>
     <img src='./images/nmos-pmos.png' width='100%'>
 </td>
@@ -38,7 +38,7 @@
     </table>
 </td>
 </tr>
-<tr>
+<tr style='border: 0px;'>
     <td valign='top'>
         <img src='images/Figure_11-Semiconductor_Handbook_800w.jpg' >
     </td>
