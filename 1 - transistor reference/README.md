@@ -51,11 +51,11 @@
 
 <img src='images/Peek 21-04-2023 16-19.gif' >
 
-<a href='https://www.falstad.com/circuit/circuitjs.html' target='_blank'>https://www.falstad.com/circuit/circuitjs.html</a>
-
 <details>
     <summary>CircuitJS code</summary>
-    
+    <br>
+    <a href='https://www.falstad.com/circuit/circuitjs.html' target='_blank'>https://www.falstad.com/circuit/circuitjs.html</a>
+
 ```
 $ 1 0.000005 2.3728258192205156 44 5 50 5e-11
 f 304 240 352 240 0 1.5 0.02
