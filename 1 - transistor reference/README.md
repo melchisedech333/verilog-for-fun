@@ -36,10 +36,19 @@
         <td>Drain:</td><td>P-substrate</td>
     </tr>
     </table>
-    <img src='./images/symbols-nmos-pmos-transistor.png' width='100%'>
 </td>
 </tr>
+<tr>
+    <td valign='top'>
+        <img src='images/Figure_11-Semiconductor_Handbook_800w.jpg' >
+    </td>
+    <td valign='top'>
+        Symbols:<br><br>
+        <img src='images/symbols-nmos-pmos-transistor.png' >
+    </td>
+</tr>
 </table>
+
 
 
 
