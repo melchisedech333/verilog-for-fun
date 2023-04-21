@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-    <img src='./images/nmos-pmos.png' width='600px'>
+    <img src='./images/nmos-pmos.png' width='100%'>
 </td>
 <td valign='top'>
     <b>Open</b>: off, disconnected, no electrical contact.<br>
