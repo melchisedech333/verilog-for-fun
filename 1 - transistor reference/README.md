@@ -3,9 +3,9 @@
 <table width='100%'>
 <tr>
 <td>
-    <img src='./images/nmos-pmos.png' width='80%'>
+    <img src='./images/nmos-pmos.png' width='100%'>
 </td>
-<td valign='top'>
+<td valign='top' width='50%'>
     <b>Open</b>: off, disconnected, no electrical contact.<br>
     <b>Closed</b>: on, connected, has electrical contact.<br><br>
     <table>
