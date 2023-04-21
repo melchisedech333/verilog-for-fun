@@ -1,11 +1,11 @@
 # Transistor Reference
 
-<table style='border:0px solid white; width:100%;'>
-<tr style='border: 0px;'>
-<td valign='top' style='border:0px;'>
+<table width='100%'>
+<tr>
+<td valign='top'>
     <img src='./images/nmos-pmos.png' width='100%'>
 </td>
-<td valign='top' width='40%' style='border:0px;'>
+<td valign='top' width='40%'>
     <b>Open</b>: off, disconnected, no electrical contact.<br>
     <b>Closed</b>: on, connected, has electrical contact.<br><br>
     <table>
@@ -38,11 +38,11 @@
     </table>
 </td>
 </tr>
-<tr style='border: 0px;'>
-    <td valign='top' style='border:0px;'>
+<tr>
+    <td valign='top'>
         <img src='images/Figure_11-Semiconductor_Handbook_800w.jpg' >
     </td>
-    <td valign='top' style='border:0px;'>
+    <td valign='top'>
         Symbols:<br><br>
         <img src='images/symbols-nmos-pmos-transistor.png' >
     </td>
