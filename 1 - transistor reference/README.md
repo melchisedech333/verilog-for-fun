@@ -1,6 +1,6 @@
 # Transistor Reference
 
-<table>
+<table width='100%'>
 <tr>
 <td>
     <img src='./images/nmos-pmos.png' width='100%'>
