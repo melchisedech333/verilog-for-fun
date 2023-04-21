@@ -1,12 +1,12 @@
 # Transistor Reference
 
-<table>
+<table width='100%>
 <tr>
-    <td valign='top' style='width:50%;'>
-        <img src='./images/symbols-nmos-pmos-transistor.png' width='100%'>
+    <td valign='top'>
+        <img src='./images/symbols-nmos-pmos-transistor.png' width='600px'>
     </td>
-    <td valign='top' style='width:50%;'>
-        <img src='./images/nmos-pmos.png' width='50%'>
+    <td valign='top'>
+        <img src='./images/nmos-pmos.png' width='600px'>
         <b>Open</b>: off, disconnected, no electrical contact.<br>
         <b>Closed</b>: on, connected, has electrical contact.<br><br>
         <table>
