@@ -108,6 +108,10 @@ o 0 64 0 4099 5 0.2 0 6 0 3 0 0 0 3 7 0 7 3
 <br>
 
 ```verilog
+/*
+ * NMOS and PMOS transistors.
+ */
+
 module mosfet_channel_n (
     input gate,
     input drain, 
