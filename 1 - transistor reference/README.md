@@ -1,5 +1,9 @@
 # Transistor Reference
 
+## Schematics
+
+<br>
+
 <table width='100%'>
 <tr>
 <td valign='top'>
@@ -92,6 +96,41 @@ o 0 64 0 4099 5 0.2 0 6 0 3 0 0 0 3 7 0 7 3
 
 </details>
 
+<br>
 
+## Verilog
 
+- [nmos-signal](verilog/nmos-signal/)
+- [nmos-supply](verilog/nmos-supply/)
+- [pmos-signal](verilog/pmos-signal/)
+- [pmos-supply](verilog/pmos-supply/)
 
+<br>
+
+```verilog
+module mosfet_channel_n (
+    input gate,
+    input drain, 
+    output source );
+
+    // NMOS call:
+    //   output  input  control
+    nmos(source, drain, gate);
+
+endmodule
+
+module mosfet_channel_p (
+    input gate,
+    input source, 
+    output drain );
+
+    // PMOS call:
+    //   output  input  control
+    pmos(drain, source, gate);
+
+endmodule
+```
+
+<br>
+
+<img src='images/2023-04-21 18-06-21.png' >
