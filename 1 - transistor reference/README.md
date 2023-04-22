@@ -144,6 +144,7 @@ endmodule
 ## Verilog CMOS inverter
 
 - [cmos-inverter](verilog/cmos-inverter/)
+- [cmos-inverter-gate](verilog/cmos-inverter-gate/)
 
 <img src='images/Peek 21-04-2023 22-06.gif' width='300px'>
 
