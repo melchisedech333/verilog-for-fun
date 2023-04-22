@@ -98,7 +98,7 @@ o 0 64 0 4099 5 0.2 0 6 0 3 0 0 0 3 7 0 7 3
 
 <br>
 
-## Verilog
+## Verilog MOSFET
 
 - [nmos-signal](verilog/nmos-signal/)
 - [nmos-supply](verilog/nmos-supply/)
@@ -138,6 +138,14 @@ module mosfet_channel_p (
 
 endmodule
 ```
+
+<br>
+
+## Verilog CMOS inverter
+
+- [cmos-inverter](verilog/cmos-inverter/)
+
+<img src='images/Peek 21-04-2023 22-06.gif' width='300px'>
 
 <br>
 
